@@ -23,7 +23,7 @@ body {
 }
 
 * {
-    font-family: poiretone;
+    font-family: roboto;
 }
 
 #loading {
@@ -262,7 +262,7 @@ body {
 
 #userbio {
     font-size: 26px;
-    font-family: "Questrial", sans-serif;
+    font-family: poiretone;
     width: 100%;
 }
 
