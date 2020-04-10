@@ -2,12 +2,12 @@
 @import url("https://fonts.googleapis.com/css?family=Questrial");
 @font-face {
     font-family: roboto;
-    src: url(/assets/fonts/Roboto.ttf);
+    src: url(./assets/fonts/Roboto.ttf);
 }
 
 @font-face {
     font-family: poiretone;
-    src: url(/assets/fonts/PoiretOne.ttf);
+    src: url(./assets/fonts/PoiretOne.ttf);
 }
 
 body {
